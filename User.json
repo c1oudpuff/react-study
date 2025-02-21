@@ -23,7 +23,6 @@
     "id": 4,
     "name": "김자바",
     "age": 18,
-    "personalColor": "orange",
-    "hobbies" : ["dance", "cleaning", "running"]
+    "personalColor": "orange"
   }
 ]
