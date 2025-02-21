@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": 유주영,
+    "age": 27,
+    "personalColor": "blue"
+  },
+  {
+    "id": 2,
+    "name": 채원빈,
+    "age": 25
+  },
+  {
+    "id": 3,
+    "name": 최유화,
+    "age": 40,
+    "personalColor": "red"
+  },
+  {
+    "id": 4,
+    "name": 김자바,
+    "age": 18,
+    "personalColor": "orange"
+  }
+]
